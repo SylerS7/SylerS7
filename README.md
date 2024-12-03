@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SylerS7
-- 👀 I’m interested in pentesting 
-- 🌱 I’m currently preparing for certifications necessary for a pentester
+- 👀 I’m interested in AI and Cybersecurity 
+- 🌱 I’m currently preparing to become an AI engineer 
 - 😄 Pronouns: I am sane
 - ⚡ Fun fact: Everyone dies one day... See ya
 
